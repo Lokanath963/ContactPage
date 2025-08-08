@@ -1,0 +1,54 @@
+.HigherHead {
+      font-family: Arial, sans-serif;
+      background-color: #d3d7dc;
+
+}
+.main{
+    text-align: center;
+      color:  #2c3e50;
+}
+.FirstName {
+    margin: 0;
+    padding: 0%;
+    display: flex;
+   align-items: center;
+    justify-content: center;
+    
+}
+.LastName {
+    margin: 0;
+    padding: 0%;
+    display: flex;
+   align-items: center;
+    justify-content: center;
+}
+.MailId  {
+     margin: 0;
+    padding: 0%;
+    display: flex;
+   align-items: center;
+    justify-content: center;
+}
+.PhoneNo {
+    margin: 0;
+    padding: 0%;
+    display: flex;
+   align-items: center;
+    justify-content: center;
+} 
+.message {
+     margin: 0;
+    padding: 0%;
+    display: flex;
+   align-items: center;
+    justify-content: center;
+}
+.button {
+      margin: 0;
+    padding: 0%;
+    display: flex;
+   align-items: center;
+    justify-content: center;
+    border-color: rgb(197, 84, 84);
+
+}
